@@ -1,0 +1,51 @@
+
+	<Dishes>
+<Dish>
+<Name>
+Soop with mushrooms
+</Name>
+<Category>
+First
+</Category>
+<Price>
+100
+</Price>
+</Dish>
+
+<Dish>
+<Name>
+Tea
+</Name>
+<Category>
+Drink
+</Category>
+<Price>
+15
+</Price>
+</Dish>
+
+<Dish>	
+<Name>
+Shrimp Salad
+</Name>
+<Category>
+Salad
+</Category>
+<Price>
+115
+</Price>
+</Dish>
+
+<Dish>
+<Name>
+Chicken with potatoe     
+</Name>
+<Category>
+Second
+</Category>
+<Price>
+130
+</Price>
+</Dish>
+        </Dishes>
+
